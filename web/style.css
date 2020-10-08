@@ -394,3 +394,7 @@ body { zoom:90%;}!important}
 
 section{page-break-before: always;}
 
+        @page {
+            size: A3 landscape;
+            margin: 0in 0in 0in 0in;
+        }
